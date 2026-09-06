@@ -1,6 +1,6 @@
 # Ahmad Altamimi
 
-**AI / Full-Stack Engineer** — UAE
+**AI / Full-Stack Engineer**
 
 I build policy-driven AI systems, agent infrastructure, and the SDKs that connect them.
 Most of my work lives at the boundary between application code and LLMs: guardrails,
